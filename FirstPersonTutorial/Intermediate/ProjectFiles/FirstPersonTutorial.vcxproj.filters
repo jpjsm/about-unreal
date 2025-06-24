@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstPersonTutorial.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPersonTutorial.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstPersonTutorialEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstPersonTutorial">
+      <UniqueIdentifier>{2651A141-C2A1-3168-BD64-2266459316FC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorial.Build.cs">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorial.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorial.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialCharacter.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialCharacter.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialGameMode.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialGameMode.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialPlayerController.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialPlayerController.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialProjectile.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\FirstPersonTutorialProjectile.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\TP_PickUpComponent.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\TP_PickUpComponent.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPersonTutorial\TP_WeaponComponent.cpp">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPersonTutorial\TP_WeaponComponent.h">
+      <Filter>Source\FirstPersonTutorial</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

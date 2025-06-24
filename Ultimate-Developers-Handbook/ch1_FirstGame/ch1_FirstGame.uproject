@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ch1_FirstGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

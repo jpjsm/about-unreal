@@ -1,0 +1,3 @@
+C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\Definitions.ch1_FirstGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

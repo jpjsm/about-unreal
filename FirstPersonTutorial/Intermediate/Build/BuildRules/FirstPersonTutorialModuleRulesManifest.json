@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\repos\\bitbucket\\about-Unreal\\FirstPersonTutorial\\Source\\FirstPersonTutorial\\FirstPersonTutorial.Build.cs",
+		"C:\\repos\\bitbucket\\about-Unreal\\FirstPersonTutorial\\Source\\FirstPersonTutorial.Target.cs",
+		"C:\\repos\\bitbucket\\about-Unreal\\FirstPersonTutorial\\Source\\FirstPersonTutorialEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

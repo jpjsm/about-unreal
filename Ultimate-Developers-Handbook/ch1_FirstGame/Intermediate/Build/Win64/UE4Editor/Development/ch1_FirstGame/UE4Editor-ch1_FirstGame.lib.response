@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ch1_FirstGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\ch1_FirstGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\ch1_FirstGame.cpp.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\ch1_FirstGameCharacter.cpp.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\ch1_FirstGameGameMode.cpp.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\ch1_FirstGame.init.gen.cpp.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\ch1_FirstGameCharacter.gen.cpp.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\ch1_FirstGameGameMode.gen.cpp.obj"
+"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\Default.rc2.res"
+/OUT:"C:\repos\bitbucket\about-Unreal\Ultimate-Developers-Handbook\ch1_FirstGame\Intermediate\Build\Win64\UE4Editor\Development\ch1_FirstGame\UE4Editor-ch1_FirstGame.lib"
